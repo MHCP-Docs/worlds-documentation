@@ -14,42 +14,42 @@ It creates a fun interaction that is easy to implement and doesn’t require scr
 1. From the Desktop Editor, go to the Build menu and select Empty Object \
 ![](media/03-Creating_a_Throwable_Interaction/image3.png)
 2. This will add a container where we can place all the items that you want to include in the throwable, like visual effects and meshes \
-![][image2]  
+![](media/03-Creating_a_Throwable_Interaction/image11.png)
 3. Add a shape to the world, from Build \> Shapes. We will be using a sphere for this example, by clicking on the shape and dragging it next to the empty \
-![][image3]  
+![](media/03-Creating_a_Throwable_Interaction/image6.png)
 4. Using the hierarchy, place the shape inside the empty object\
-![][image4]  
+![](media/03-Creating_a_Throwable_Interaction/image21.png)
 5. With the shape still selected, go to the properties (right panel), and change its positon to x: 0, y: 0, z: 0 \
-![][image5]  
+![](media/03-Creating_a_Throwable_Interaction/image13.png)
 6. Select the Empty object from the hierarchy \
-![][image6]
+![](media/03-Creating_a_Throwable_Interaction/image14.png)
 7. Go the the properties (right panel) and change the Motion to Interactive \
-![][image7]  
+![](media/03-Creating_a_Throwable_Interaction/image18.png)
 8. Change the Interaction to Physics and Grabbable \
-![][image8]  
+![](media/03-Creating_a_Throwable_Interaction/image19.png)
 9. Adjust the Scale to x:0.4, y:0.4, z:0.4 \
-![][image9]  
+![](media/03-Creating_a_Throwable_Interaction/image16.png)
 10. Press the Play button to enter preview mode \
-![][image10]  
+![](media/03-Creating_a_Throwable_Interaction/image4.png)
 11. Approach the sphere, and press E to grab it \
-![][image11]  
+![](media/03-Creating_a_Throwable_Interaction/image2.png)
 12. While grabbing the sphere, press and hold the release button for 3 seconds to charge the throw \
-![][image12]
+![](media/03-Creating_a_Throwable_Interaction/image1.png)
 13. Release the button and the avatar will throw the object \
-![][image13]  
+![](media/03-Creating_a_Throwable_Interaction/image10.png)
 14. Press ESC twice on your keyboard to exit preview mode \
-![][image14]  
+![](media/03-Creating_a_Throwable_Interaction/image7.png)
 15. Go to Build \> Gizmos \
-![][image15]  
+![](media/03-Creating_a_Throwable_Interaction/image8.png)
 16. Search for Trail \
-![][image16]  
+![](media/03-Creating_a_Throwable_Interaction/image12.png)
 17. Drag it into the scene, next to the throwable \
-![][image17]  
+![](media/03-Creating_a_Throwable_Interaction/image17.png)
 18. With the gizmo select, go to the properties and change its scale to x: 0.2, y: 0.2, z: 0.2 \
-![][image18]  
+![](media/03-Creating_a_Throwable_Interaction/image15.png)
 19. From the hierarchy, drag the gizmo inside the empty object \
-![][image19]  
+![](media/03-Creating_a_Throwable_Interaction/image20.png)
 20. With the trail effect still selected, go to the properties, and change its position to x:0, y: 0, z: 0 \
-![][image20]  
+![](media/03-Creating_a_Throwable_Interaction/image5.png)
 21. Enter preview mode again, and observe the trail effect that follows the object when in motion \
-![][image21]
+![](media/03-Creating_a_Throwable_Interaction/image9.png)
