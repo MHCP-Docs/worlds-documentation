@@ -15,7 +15,7 @@ To use an asset in your world, simply drag and drop it into the scene:\
 
 ## Scripted Assets
 Some assets include full mechanics with 3D models, Custom UIs and scripting. These assets can be identified by the green curly braces that appear at the upper left corner of the thumbnail.\
-![](media/01-Horizon Public Asset Library Guide/image9.png)
+![](media/01-Horizon_Public_Asset_Library_Guide/image9.png)
 
 ## Recommended Creators
 * Meta Official Account:   
