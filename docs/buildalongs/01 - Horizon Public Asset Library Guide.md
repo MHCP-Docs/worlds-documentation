@@ -7,7 +7,7 @@
 4. Filter by **creator name**  
 5. You can sort by highest rated, newest, oldest or alphabetically  
 6. When you select an asset you can see its **asset ID**. Use this number to validate that you have found the asset suggested in this document.\
-![](media/01-Horizon Public Asset Library Guide/image4.png)
+![](media/01-Horizon_Public_Asset_Library_Guide/image4.png)
 
 ## How to Use
 To use an asset in your world, simply drag and drop it into the scene:\
