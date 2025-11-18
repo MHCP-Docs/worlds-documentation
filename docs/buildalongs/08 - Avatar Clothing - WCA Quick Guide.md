@@ -21,7 +21,7 @@ It creates a fun interaction that is easy to implement and doesn’t require scr
 Specification: PNG 1024x1024 (2 MB Max)
 6. Use the texture map and UVguide as a reference to start designing.\
 Texture Map \
-![](media/08-Avatar_Clothing/image5.png) 
+![](media/08-Avatar_Clothing/image5.png) \
 UV Guide \
 ![](media/08-Avatar_Clothing/image6.png)
 
