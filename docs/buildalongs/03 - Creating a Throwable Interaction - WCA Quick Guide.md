@@ -12,7 +12,7 @@ It creates a fun interaction that is easy to implement and doesn’t require scr
 ## Steps:
 
 1. From the Desktop Editor, go to the Build menu and select Empty Object \
-![][image1]  
+![](media/03-Creating-a-Throwable_Interaction/image3.png)
 2. This will add a container where we can place all the items that you want to include in the throwable, like visual effects and meshes \
 ![][image2]  
 3. Add a shape to the world, from Build \> Shapes. We will be using a sphere for this example, by clicking on the shape and dragging it next to the empty \
