@@ -11,19 +11,19 @@ It creates a fun interaction that is easy to implement and doesn’t require scr
 
 1. Go to developer dashboard
 2. Go to Digital Items \
-![](media/01-Horizon Public Asset Library Guide/image1.png)
+![](media/08-Avatar_Clothing/image1.png)
 3. Go to Create Avatar Item \
-![][image2]
+![](media/08-Avatar_Clothing/image2.png)
 4. Pick a template \
-![][image3]
+![](media/08-Avatar_Clothing/image3.png)
 5. Download Design Files \
-![][image4] \
+![](media/08-Avatar_Clothing/image4.png) \
 Specification: PNG 1024x1024 (2 MB Max)
 6. Use the texture map and UVguide as a reference to start designing.\
 Texture Map \
-![][image5] 
+![](media/08-Avatar_Clothing/image5.png) 
 UV Guide \
-![][image6]
+![](media/08-Avatar_Clothing/image6.png)
 
 ### 2D Designing Demo using Canva
                 
