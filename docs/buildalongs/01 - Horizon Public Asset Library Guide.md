@@ -7,15 +7,15 @@
 4. Filter by **creator name**  
 5. You can sort by highest rated, newest, oldest or alphabetically  
 6. When you select an asset you can see its **asset ID**. Use this number to validate that you have found the asset suggested in this document.\
-**![][image1]**
+![](media/01-Horizon Public Asset Library Guide/image4.png)
 
 ## How to Use
 To use an asset in your world, simply drag and drop it into the scene:\
-![][image2]
+![](media/01-Horizon Public Asset Library Guide/image12.png)
 
 ## Scripted Assets
 Some assets include full mechanics with 3D models, Custom UIs and scripting. These assets can be identified by the green curly braces that appear at the upper left corner of the thumbnail.\
-![][image3]
+![](media/01-Horizon Public Asset Library Guide/image9.png)
 
 ## Recommended Creators
 * Meta Official Account:   
@@ -46,7 +46,7 @@ Structures \- Interiors \- Environment \- Lights \- Weapons
 * Keywords:
 
 Treasure \- Castle \- Magic \- Potion \- Column \- Stone \- Arc
-
+![](media/01-Horizon Public Asset Library Guide/image3.png)
 Name: Portculis Drawbridge  
 Category: Structures  
 Asset ID: 981830410169214 
@@ -60,7 +60,7 @@ Structures \- Vehicles \- Interiors
 * Keywords:
 
 Vehicle \- Sign \- Light \- Factory
-
+![](media/01-Horizon Public Asset Library Guide/image8.png)
 Name: Factory Machine Assembly Line  
 Category: Interiors  
 Asset ID: 1819656162131855
@@ -74,7 +74,7 @@ Structures \- Electronics \- Interiors \- Vehicles
 * Keywords:
 
 Space \- Laser \- Crate
-
+![](media/01-Horizon Public Asset Library Guide/image1.png)
 Name: Laser Beam Emitter  
 Category: Interiors  
 AssetID: 2234215763680099
@@ -88,7 +88,7 @@ Environments \- Animals \- Food
 * Keywords:
 
 Flower \- Tree \- Rock \- Ocean \- Fruits
-
+![](media/01-Horizon Public Asset Library Guide/image2.png)
 Name: Date Palm Tree  
 Category: Environment  
 AssetID: 1606762920029822
@@ -96,21 +96,21 @@ AssetID: 1606762920029822
 ### Special Categories
 
 * **Interactive:** Many reusable scripted mechanics, these can be a great source to learn how to use the different Horizon Worlds APIs
-
+![](media/01-Horizon Public Asset Library Guide/image11.png)
 **Name**: Lamp & Flashlight (Torch)  
 **Creator**: Vidyuu  
 **Asset ID**: 1912614015979361  
 **Category**: Interactive
 
 * **VFX:** A curated collection of visual effects created with PopcornFX. These can be controlled with scripting just like the Particle Effects Gizmo.
-
+![](media/01-Horizon Public Asset Library Guide/image7.png)
 **Name**: Sparkles B  
 **Creator**: MetaHorizon  
 **Asset ID**: 1552051715509401  
 **Category**: VFX
 
 * **Audio:** A large repository of music, sound effects and ambient sounds.
-
+![](media/01-Horizon Public Asset Library Guide/image5.png)
 **Name**: SFX\_Rain\_in\_Dessert\_Amb\_Loop  
 **Creator**: MetaHorizon  
 **Asset ID**: 1642526946251951  
@@ -118,14 +118,14 @@ AssetID: 1606762920029822
 **Subcategory**: Ambient
 
 * **Avatar Animations:** These animations can be applied to the player avatar on mobile and web.
-
+![](media/01-Horizon Public Asset Library Guide/image6.png)
 **Name**: Knock Down (Right Shoulder)  
 **Creator**: MetaHorizon  
 **Asset ID**: 2248856388909561  
 **Category**: Avatar Animations
 
 * **NPC:** These are Unity Asset Bundle characters containing animations and interactions that can be triggered with scripting.
-
+![](media/01-Horizon Public Asset Library Guide/image10.png)
 **Name**: NPC Henchman  
 **Creator**: MetaHorizon  
 **Asset ID**: 629002330062181  
