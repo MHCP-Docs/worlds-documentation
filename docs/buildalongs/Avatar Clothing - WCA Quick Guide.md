@@ -11,8 +11,9 @@ It creates a fun interaction that is easy to implement and doesn’t require scr
 
 1. Go to developer dashboard
 2. Go to Digital Items \
-![][image1]
+<img width="322" height="216" alt="image1" src="https://github.com/user-attachments/assets/08b2aa96-7bc8-4dc9-8c23-32adce5a76df" />
 3. Go to Create Avatar Item \
+<img width="1504" height="704" alt="image2" src="https://github.com/user-attachments/assets/4bccc7c7-5cf6-4f5d-be9e-da0e22b9b37e" />
 ![][image2]
 4. Pick a template \
 ![][image3]
