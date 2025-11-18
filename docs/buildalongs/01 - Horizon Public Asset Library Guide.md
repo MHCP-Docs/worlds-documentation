@@ -39,13 +39,9 @@ Some assets include full mechanics with 3D models, Custom UIs and scripting. The
 
 ### Fantasy/Medieval
 
-* Categories:
+* Categories: Structures \- Interiors \- Environment \- Lights \- Weapons
 
-Structures \- Interiors \- Environment \- Lights \- Weapons
-
-* Keywords:
-
-Treasure \- Castle \- Magic \- Potion \- Column \- Stone \- Arc\
+* Keywords: Treasure \- Castle \- Magic \- Potion \- Column \- Stone \- Arc\
 ![](media/01-Horizon_Public_Asset_Library_Guide/image3.png)\
 Name: Portculis Drawbridge  
 Category: Structures  
@@ -53,13 +49,9 @@ Asset ID: 981830410169214
 
 ### Modern/Urban
 
-* Categories:
+* Categories: Structures \- Vehicles \- Interiors
 
-Structures \- Vehicles \- Interiors
-
-* Keywords:
-
-Vehicle \- Sign \- Light \- Factory\
+* Keywords: Vehicle \- Sign \- Light \- Factory\
 ![](media/01-Horizon_Public_Asset_Library_Guide/image8.png)\
 Name: Factory Machine Assembly Line  
 Category: Interiors  
@@ -67,13 +59,9 @@ Asset ID: 1819656162131855
 
 ### Sci-Fi
 
-* Categories
+* Categories: Structures \- Electronics \- Interiors \- Vehicles
 
-Structures \- Electronics \- Interiors \- Vehicles
-
-* Keywords:
-
-Space \- Laser \- Crate\
+* Keywords: Space \- Laser \- Crate\
 ![](media/01-Horizon_Public_Asset_Library_Guide/image1.png)\
 Name: Laser Beam Emitter  
 Category: Interiors  
@@ -81,13 +69,9 @@ AssetID: 2234215763680099
 
 ### Nature/Outdoors
 
-* Categories
+* Categories: Environments \- Animals \- Food
 
-Environments \- Animals \- Food
-
-* Keywords:
-
-Flower \- Tree \- Rock \- Ocean \- Fruits\
+* Keywords: Flower \- Tree \- Rock \- Ocean \- Fruits\
 ![](media/01-Horizon_Public_Asset_Library_Guide/image2.png)\
 Name: Date Palm Tree  
 Category: Environment  
