@@ -45,7 +45,7 @@ Structures \- Interiors \- Environment \- Lights \- Weapons
 
 * Keywords:
 
-Treasure \- Castle \- Magic \- Potion \- Column \- Stone \- Arc
+Treasure \- Castle \- Magic \- Potion \- Column \- Stone \- Arc\
 ![](media/01-Horizon_Public_Asset_Library_Guide/image3.png)\
 Name: Portculis Drawbridge  
 Category: Structures  
@@ -59,7 +59,7 @@ Structures \- Vehicles \- Interiors
 
 * Keywords:
 
-Vehicle \- Sign \- Light \- Factory
+Vehicle \- Sign \- Light \- Factory\
 ![](media/01-Horizon_Public_Asset_Library_Guide/image8.png)\
 Name: Factory Machine Assembly Line  
 Category: Interiors  
@@ -73,7 +73,7 @@ Structures \- Electronics \- Interiors \- Vehicles
 
 * Keywords:
 
-Space \- Laser \- Crate
+Space \- Laser \- Crate\
 ![](media/01-Horizon_Public_Asset_Library_Guide/image1.png)\
 Name: Laser Beam Emitter  
 Category: Interiors  
@@ -87,7 +87,7 @@ Environments \- Animals \- Food
 
 * Keywords:
 
-Flower \- Tree \- Rock \- Ocean \- Fruits
+Flower \- Tree \- Rock \- Ocean \- Fruits\
 ![](media/01-Horizon_Public_Asset_Library_Guide/image2.png)\
 Name: Date Palm Tree  
 Category: Environment  
@@ -95,21 +95,21 @@ AssetID: 1606762920029822
 
 ### Special Categories
 
-* **Interactive:** Many reusable scripted mechanics, these can be a great source to learn how to use the different Horizon Worlds APIs
+* **Interactive:** Many reusable scripted mechanics, these can be a great source to learn how to use the different Horizon Worlds APIs\
 ![](media/01-Horizon_Public_Asset_Library_Guide/image11.png)\
 **Name**: Lamp & Flashlight (Torch)  
 **Creator**: Vidyuu  
 **Asset ID**: 1912614015979361  
 **Category**: Interactive
 
-* **VFX:** A curated collection of visual effects created with PopcornFX. These can be controlled with scripting just like the Particle Effects Gizmo.
+* **VFX:** A curated collection of visual effects created with PopcornFX. These can be controlled with scripting just like the Particle Effects Gizmo.\
 ![](media/01-Horizon_Public_Asset_Library_Guide/image7.png)\
 **Name**: Sparkles B  
 **Creator**: MetaHorizon  
 **Asset ID**: 1552051715509401  
 **Category**: VFX
 
-* **Audio:** A large repository of music, sound effects and ambient sounds.
+* **Audio:** A large repository of music, sound effects and ambient sounds.\
 ![](media/01-Horizon_Public_Asset_Library_Guide/image5.png)\
 **Name**: SFX\_Rain\_in\_Dessert\_Amb\_Loop  
 **Creator**: MetaHorizon  
@@ -117,14 +117,14 @@ AssetID: 1606762920029822
 **Category**: Audio  
 **Subcategory**: Ambient
 
-* **Avatar Animations:** These animations can be applied to the player avatar on mobile and web.
+* **Avatar Animations:** These animations can be applied to the player avatar on mobile and web.\
 ![](media/01-Horizon_Public_Asset_Library_Guide/image6.png)\
 **Name**: Knock Down (Right Shoulder)  
 **Creator**: MetaHorizon  
 **Asset ID**: 2248856388909561  
 **Category**: Avatar Animations
 
-* **NPC:** These are Unity Asset Bundle characters containing animations and interactions that can be triggered with scripting.
+* **NPC:** These are Unity Asset Bundle characters containing animations and interactions that can be triggered with scripting.\
 ![](media/01-Horizon_Public_Asset_Library_Guide/image10.png)\
 **Name**: NPC Henchman  
 **Creator**: MetaHorizon  
