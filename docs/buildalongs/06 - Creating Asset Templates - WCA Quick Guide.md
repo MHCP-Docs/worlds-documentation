@@ -6,16 +6,16 @@
 #### To create an asset while in edit mode: 
 1. **Select** one or more **objects** **in the hierarchy window** on the left side of the desktop editor window  
    	**Tip:** Use shift + Left click  or ctrl + Left click to select multiple objects\
-![][image1]
+![](/media/06-Creating_Asset_Templates/image1.png)
 2. **Right click** on the selection **then** **click** **Create Asset**\
-![][image2]
+![](/media/06-Creating_Asset_Templates/image3.png)
 3. In the pop-up window **fill out the name and description** for your asset\
-![][image3]
+![](/media/06-Creating_Asset_Templates/image6.png)
 4. **Select a folder** you want the asset saved to.\
-![][image4]
+![](/media/06-Creating_Asset_Templates/image2.png)
 5. **Click “Create**” to save the asset.  \
-![][image5]
+![](/media/06-Creating_Asset_Templates/image5.png)
 6. In the bottom window of the desktop editor go to the **Asset Library** tab, then to the **My Assets** Section to find the folder you selected above and **locate your new asset**\
-![][image6]
+![](/media/06-Creating_Asset_Templates/image4.png)
 
 ### You now have an asset template that you can reuse and update instances in one place!
