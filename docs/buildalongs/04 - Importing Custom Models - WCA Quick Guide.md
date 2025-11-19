@@ -8,7 +8,7 @@
 *Use this when you are ready to import a custom fbx model to use within your world*
 To upload a custom model in edit mode: 
 1. Open the **Asset Library** and select **My Assets**\
-![][image1]
+![](media/04-Importing_Custom_Models/image1.png)
 2. **Select the folder** where you want to save your asset\
 ![][image2]
 3. Click **Add New** and select **3D Model**\
