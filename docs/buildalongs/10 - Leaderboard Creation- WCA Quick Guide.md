@@ -7,16 +7,16 @@
 Outlined..
 1. Click on “Systems” Button on Top/Left of Desktop Editor
 2. Click On “Leaderboards” \
-![][image1]
+![](media/10-Leaderboard_Creation/image1.png)
 3. Click “+” symbol to Create a New Leaderboard \
-![][image2]
+![](media/10-Leaderboard_Creation/image2.png)
 4. Configure Settings \
-![][image3]\
+![](media/10-Leaderboard_Creation/image6.png)\
 **OPTIONAL Automatic Reset Data**\
-![][image4]
+![](media/10-Leaderboard_Creation/image4.png)
 5. Save “Create” Leaderboard \
-![][image5]
+![](media/10-Leaderboard_Creation/image8.png)
 6. Assign to a Leaderboard Gizmo \
-![][image6] ![][image7]
+![](media/10-Leaderboard_Creation/image7.png) ![](media/10-Leaderboard_Creation/image3.png)
 7. Test and Note: (Does not Display Data in Desktop Editor) \
-![][image8]
+![](media/10-Leaderboard_Creation/image5.png)
