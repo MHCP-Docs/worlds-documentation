@@ -6,14 +6,14 @@ To Save Data for a player such as Scores, Points, Progression and Currency
 ## Steps:
 1. Click on “Systems” button on Top Left of Desktop Editor
 2. Click On “Variable Groups” \
-![][image1]
+![](media/09-Player_Persistent_Variables/image2.png)
 3. Click “+” to Add/Create New Variable Group to World \
-![][image2]
+![](media/09-Player_Persistent_Variables/image6.png)
 4. Create Variable Group \
-![][image3]
+![](media/09-Player_Persistent_Variables/image3.png)
 5. Click “+” to Create New Variable \
-![][image4]
+![](media/09-Player_Persistent_Variables/image4.png)
 6. Name & Save Variable \
-![][image5]
+![](media/09-Player_Persistent_Variables/image1.png)
 7. Done\! Now Implement in Typescript \
-![][image6]
+![](media/09-Player_Persistent_Variables/image5.png)
